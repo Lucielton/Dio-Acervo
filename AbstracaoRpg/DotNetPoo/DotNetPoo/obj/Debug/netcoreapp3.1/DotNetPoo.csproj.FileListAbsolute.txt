@@ -1,0 +1,14 @@
+C:\Users\lucielton.silva\Desktop\Estudos\C#\DIO\AbstracaoRpg\DotNetPoo\DotNetPoo\bin\Debug\netcoreapp3.1\DotNetPoo.exe
+C:\Users\lucielton.silva\Desktop\Estudos\C#\DIO\AbstracaoRpg\DotNetPoo\DotNetPoo\bin\Debug\netcoreapp3.1\DotNetPoo.deps.json
+C:\Users\lucielton.silva\Desktop\Estudos\C#\DIO\AbstracaoRpg\DotNetPoo\DotNetPoo\bin\Debug\netcoreapp3.1\DotNetPoo.runtimeconfig.json
+C:\Users\lucielton.silva\Desktop\Estudos\C#\DIO\AbstracaoRpg\DotNetPoo\DotNetPoo\bin\Debug\netcoreapp3.1\DotNetPoo.runtimeconfig.dev.json
+C:\Users\lucielton.silva\Desktop\Estudos\C#\DIO\AbstracaoRpg\DotNetPoo\DotNetPoo\bin\Debug\netcoreapp3.1\DotNetPoo.dll
+C:\Users\lucielton.silva\Desktop\Estudos\C#\DIO\AbstracaoRpg\DotNetPoo\DotNetPoo\bin\Debug\netcoreapp3.1\DotNetPoo.pdb
+C:\Users\lucielton.silva\Desktop\Estudos\C#\DIO\AbstracaoRpg\DotNetPoo\DotNetPoo\obj\Debug\netcoreapp3.1\DotNetPoo.csproj.AssemblyReference.cache
+C:\Users\lucielton.silva\Desktop\Estudos\C#\DIO\AbstracaoRpg\DotNetPoo\DotNetPoo\obj\Debug\netcoreapp3.1\DotNetPoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucielton.silva\Desktop\Estudos\C#\DIO\AbstracaoRpg\DotNetPoo\DotNetPoo\obj\Debug\netcoreapp3.1\DotNetPoo.AssemblyInfoInputs.cache
+C:\Users\lucielton.silva\Desktop\Estudos\C#\DIO\AbstracaoRpg\DotNetPoo\DotNetPoo\obj\Debug\netcoreapp3.1\DotNetPoo.AssemblyInfo.cs
+C:\Users\lucielton.silva\Desktop\Estudos\C#\DIO\AbstracaoRpg\DotNetPoo\DotNetPoo\obj\Debug\netcoreapp3.1\DotNetPoo.csproj.CoreCompileInputs.cache
+C:\Users\lucielton.silva\Desktop\Estudos\C#\DIO\AbstracaoRpg\DotNetPoo\DotNetPoo\obj\Debug\netcoreapp3.1\DotNetPoo.dll
+C:\Users\lucielton.silva\Desktop\Estudos\C#\DIO\AbstracaoRpg\DotNetPoo\DotNetPoo\obj\Debug\netcoreapp3.1\DotNetPoo.pdb
+C:\Users\lucielton.silva\Desktop\Estudos\C#\DIO\AbstracaoRpg\DotNetPoo\DotNetPoo\obj\Debug\netcoreapp3.1\DotNetPoo.genruntimeconfig.cache
